@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "B:\\Comp367\\MoustafaLab1Q3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B704F97-29B0-478C-BCE8-37AF19E47803}|MoustafaLab1Q3\\MoustafaLab1Q3.csproj|b:\\comp367\\moustafalab1q3\\moustafalab1q3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B704F97-29B0-478C-BCE8-37AF19E47803}|MoustafaLab1Q3\\MoustafaLab1Q3.csproj|solutionrelative:moustafalab1q3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B704F97-29B0-478C-BCE8-37AF19E47803}|MoustafaLab1Q3\\MoustafaLab1Q3.csproj|b:\\comp367\\moustafalab1q3\\moustafalab1q3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B704F97-29B0-478C-BCE8-37AF19E47803}|MoustafaLab1Q3\\MoustafaLab1Q3.csproj|solutionrelative:moustafalab1q3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B704F97-29B0-478C-BCE8-37AF19E47803}|MoustafaLab1Q3\\MoustafaLab1Q3.csproj|b:\\comp367\\moustafalab1q3\\moustafalab1q3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B704F97-29B0-478C-BCE8-37AF19E47803}|MoustafaLab1Q3\\MoustafaLab1Q3.csproj|solutionrelative:moustafalab1q3\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 224,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "B:\\Comp367\\MoustafaLab1Q3\\MoustafaLab1Q3\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MoustafaLab1Q3\\Pages\\Privacy.cshtml",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "B:\\Comp367\\MoustafaLab1Q3\\MoustafaLab1Q3\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MoustafaLab1Q3\\Pages\\Index.cshtml",
               "ToolTip": "B:\\Comp367\\MoustafaLab1Q3\\MoustafaLab1Q3\\Pages\\Index.cshtml",
               "RelativeToolTip": "MoustafaLab1Q3\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-07T19:17:24.923Z",
               "EditorCaption": ""
